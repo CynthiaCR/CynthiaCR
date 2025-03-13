@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hello Everyone, I'm Cynthia!  
+I'm a **Software Engineer** with a passion for building scalable applications, exploring AI/ML, and solving complex problems. I hold a **Master's degree in Computer Science** from the **University of San Francisco** and dual Bachelor's degrees in **Mathematics** and **Mathematics Education**.
+---
 
-<!--
-**CynthiaCR/CynthiaCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 😄 **Pronouns:** She | Her | Ella  
+- 🌐 Passionate about **AI/ML research** — particularly **NLP** and **LLMs**.  
+- 📊 Skilled in **Python**, **Java**, and **JavaScript**.  
+- 🏆 First-generation woman in STEM and a proud member of **CodePath**, **Rewriting the Code**, **AnitaB**, and the **Society of Women Engineers**.  
+- ⚽ **Hobbies:** I love watching soccer, especially **World Cup** and **Copa América** matches.  
+- 🎉 **Fun Fact:** I make piñatas for my nephews' birthdays using strong cardboard so everyone — kids and even parents — gets a chance to take a swing!  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect  
+[LinkedIn](#https://www.linkedin.com/in/cynthia-carnero/) | [Email](#) | [Portfolio](#)  
