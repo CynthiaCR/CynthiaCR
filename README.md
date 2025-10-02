@@ -2,7 +2,7 @@
 
 ### 🚀 About Me  
 - 😄 **Pronouns:** She | Her | Ella  
-- 🌐 Passionate about **AI/ML research** — particularly **NLP** and **LLMs**.  
+- 🌐 Passionate about **AI/ML research** particularly **NLP** and **LLMs**.  
 - 📊 Skilled in **Python**, **Java**, and **JavaScript**.  
 - 🏆 First-generation woman in STEM and a proud member of **CodePath**, **Rewriting the Code**, **SHPE**, and the **Society of Women Engineers**.  
 - ⚽ **Hobbies:** I love watching soccer, especially **World Cup** and **Copa América** matches.  
